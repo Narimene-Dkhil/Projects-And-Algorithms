@@ -1,0 +1,70 @@
+@{
+    ViewData["Title"] = "Add Job Page";
+}
+
+@model Job
+
+<h2 class="mb-5">Add a Job</h2>
+
+<div class="container">
+    <form asp-action="CreateJob" asp-controller="Home" method="post">
+        <div class="row mb-3">
+            <div class="col-md-2 text-start">
+                <label asp-for="Title" class="form-label"></label>
+            </div>
+            <div class="col-md-8">
+                <input asp-for="Title" class="form-control">
+                <span asp-validation-for="Title" class="text-dark"></span>
+            </div>
+        </div>
+
+        <div class="row mb-3">
+            <div class="col-md-2 text-start">
+                <label asp-for="Description" class="form-label"></label>
+            </div>
+            <div class="col-md-8">
+                <input asp-for="Description" class="form-control">
+                <span asp-validation-for="Description" class="text-dark"></span>
+            </div>
+        </div>
+
+        <div class="row mb-3">
+            <div class="col-md-2 text-start">
+                <label asp-for="Location" class="form-label"></label>
+            </div>
+            <div class="col-md-8">
+                <input asp-for="Location" class="form-control">
+                <span asp-validation-for="Location" class="text-dark"></span>
+            </div>
+        </div>
+
+        <div class="row mb-3">
+            <div class="col-md-2 text-start">
+                <label asp-for="IsUrgent" class="form-label"></label>
+            </div>
+            <div class="col-md-8 d-flex align-items-center">
+                <div class="form-check">
+                    <input asp-for="IsUrgent" type="checkbox" class="form-check-input" id="urgentCheckbox">
+                </div>
+                <span asp-validation-for="IsUrgent" class="text-danger ms-2"></span>
+            </div>
+        </div>
+
+        <div class="row mb-3">
+            <div class="col-md-2 text-start">
+                <label asp-for="DueDate" class="form-label"></label>
+            </div>
+            <div class="col-md-8">
+                <input asp-for="DueDate" class="form-control" type="datetime-local">
+                <span asp-validation-for="DueDate" class="text-dark"></span>
+            </div>
+        </div>
+
+        <div class="row mb-3">
+            <div class="col-md-2"></div>
+            <div class="col-md-8">
+                <input type="submit" value="Submit" class="btn btn-light">
+            </div>
+        </div>
+    </form>
+</div>

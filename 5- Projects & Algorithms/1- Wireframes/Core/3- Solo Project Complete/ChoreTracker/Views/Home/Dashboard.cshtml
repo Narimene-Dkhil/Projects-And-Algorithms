@@ -1,0 +1,140 @@
+@{
+    ViewData["Title"] = "Dashboard Page";
+}
+
+@model MyViewModel
+
+<div class="container my-4">
+    <div class="row">
+        <div class="col-12">
+            @if ((bool)ViewBag.IsDoctor)
+            {
+                <h3>Welcome Dr. @Model.User.FirstName!</h3>
+            }
+            else
+            {
+                <h3>Welcome Nurse @Model.User.FirstName!</h3>
+            }
+        </div>
+
+        @if ((bool)ViewBag.IsDoctor)
+        {
+            <div class="col-12 text-end">
+                <a href="/addJob" class="btn btn-light me-2">Add A Job</a>
+                <a href="/myJobs" class="btn btn-light">My Jobs</a>
+            </div>
+        }
+    </div>
+</div>
+
+<!-- Search Form -->
+<form asp-action="Dashboard" method="get" class="mb-4">
+    <div class="input-group">
+        <input type="text" name="searchLocation" value="@ViewBag.SearchLocation"
+            class="form-control me-2" placeholder="Search by Location">
+        <button class="btn btn-custom-blue me-2" type="submit">Search</button>
+        <a href="/dashboard" class="btn btn-custom-red">Clear Search</a>
+    </div>
+</form>
+
+<div class="row mb-5">
+    <div class="col-12">
+        <h6 class="mb-3">Click "Add" to add a Job to your <strong>Favorite Jobs</strong> List!</h6>
+        <table class="table table-bordered table-hover text-secondary border-light">
+            <thead class="table-dark">
+                <tr>
+                    <th>Jobs</th>
+                    <th>Location</th>
+                    <th>
+                        <a href="/dashboard?searchLocation=@ViewBag.SearchLocation&sortByPriority=@ViewBag.SortByPriority" class="text-white">Priority</a>
+                    </th>
+                    <th>Due Date</th>
+                    <th>Action</th>
+                </tr>
+            </thead>
+            <tbody class="bg-light text-dark">
+                @if (Model.AllJobs.Count > 0)
+                {
+                    @foreach (Job job in Model.AllJobs)
+                    {
+                        <tr>
+                            <td><strong>@job.Title</strong></td>
+                            <td>@job.Location</td>
+                            <td>@(job.IsUrgent ? "Urgent!" : "Not urgent.")</td>
+                            <td>@job.DueDate.ToString("MMMM d, yyyy h:mm tt")</td>
+                            <td>
+                                @if (job.UserId == (int)ViewBag.LoggedUserId)
+                                {
+                                    <div class="d-flex align-items-center">
+                                        <a href="/view/@job.JobId?isFromFavorites=false" class="btn btn-secondary me-2">View</a>
+                                        <form asp-action="AddJobToFavorites" asp-route-jobId="@job.JobId" method="post" class="m-0">
+                                            <input type="submit" value="Add" class="btn btn-secondary me-2">
+                                        </form>
+                                        <a href="/edit/@job.JobId" class="btn btn-secondary me-2">Edit</a>
+                                        <form asp-action="DeleteJob" asp-controller="Home" asp-route-jobId="@job.JobId" method="post" class="m-0">
+                                            <input type="submit" value="Cancel" class="btn btn-secondary me-2">
+                                        </form>
+                                    </div>
+                                }
+                                else
+                                {
+                                    <div class="d-flex align-items-center">
+                                        <a href="/view/@job.JobId" class="btn btn-secondary me-2">View</a>
+                                        <form asp-action="AddJobToFavorites" asp-route-jobId="@job.JobId" method="post" class="m-0">
+                                            <input type="submit" value="Add" class="btn btn-secondary me-2">
+                                        </form>
+                                    </div>
+                                }
+                            </td>
+                        </tr>
+                    }
+                }
+                else
+                {
+                    <tr>
+                        <td colspan="5" class="text-center">No jobs found</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-12">
+        <h6 class="mb-3">Your Favorite Jobs List!</h6>
+        <table class="table table-bordered table-hover text-secondary border-light">
+            <thead class="table-dark">
+                <tr>
+                    <th>Favorite Jobs</th>
+                    <th>Location</th>
+                    <th>Priority</th>
+                    <th>Due Date</th>
+                    <th>Action</th>
+                </tr>
+            </thead>
+            <tbody class="bg-light text-dark">
+                @foreach (Favorite favorite in Model.User.Favorites)
+                {
+                    <tr>
+                        <td><strong>@favorite.Job.Title</strong></td>
+                        <td>@favorite.Job.Location</td>
+                        <td>@(favorite.Job.IsUrgent ? "Urgent!" : "Not urgent.")</td>
+                        <td>@favorite.Job.DueDate.ToString("MMMM d, yyyy h:mm tt")</td>
+                        <td>
+                            <div class="d-flex align-items-center">
+                                <a href="/view/@favorite.Job.JobId?isFromFavorites=true" class="btn btn-secondary me-2">View</a>
+                                <form asp-action="DeleteJob" asp-controller="Home" asp-route-jobId="@favorite.Job.JobId" method="post" class="m-0">
+                                    <input type="submit" value="Done" class="btn btn-secondary me-2">
+                                </form>
+                                <form asp-action="RemoveJobFromFavorites" asp-route-jobId="@favorite.Job.JobId" method="post" class="m-0">
+                                    <input type="submit" value="Unfavorite" class="btn btn-secondary me-2">
+                                </form>
+                            </div>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>

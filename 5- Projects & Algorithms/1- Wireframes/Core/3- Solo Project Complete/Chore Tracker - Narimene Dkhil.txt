@@ -1,0 +1,155 @@
+Student: Narimene Dkhil
+
+Application:
+Chore Tracker - A local chore tracking app for Hospitals!
+
+Description:
+The Chore Tracker web application stores and keeps track of all the chores that need to be done within a hospital ( including all departments). 
+Features include viewing, creating, editing, deleting, favoriting/unfavoriting chores from a list of jobs.
+
+Language used:
+C# .Net
+
+Framework: 
+ASP.NET Core
+
+Database:
+MySQL
+
+Styling: 
+CSS 
+Bootstrap
+
+GitHub repository:
+https://github.com/narimenedk/Coding-Dojo-Africa/tree/main/Projects%20%26%20Algorithms/Wireframes/Core/Solo%20Project%20Proposal
+
+Project features:
+
+MVP Features:
+Login and Registration with Validations
+-Validation messages should display for unsuccessful submission
+-(Registration and Login) All fields required
+-(Registration) Name must have a minimum length of 2 characters
+-(Registration) Valid email format
+-(Registration) No duplicate emails
+-(Registration) Password must have a minimum length of 8 characters
+-(Registration) Password and Password Confirm must match 
+-(Login) Valid email and password 
+-Clicking on "Are you a Doctor?" will redirect user to the Doctor UI, otherwise user will be redirected to the Nurse UI.
+
+-------------------------------------------------------------------------------------------------------
+CRUD Functionalities:
+
+For a Doctor profile:
+
+Dashboard:
+
+-"Back" button redirects the user to the Dashboard 
+-"Logout" clears the user session
+-"Add A Job" button redirects to a new job form 
+-"My Jobs" button redirects to a list of all jobs created by the connected Doctor profile 
+(even if they are favorited by another user and don't appear in the All jobs list)
+
+-Search bar allows user to search by "Location"
+-"Clear Search" button resets the search to show all jobs
+
+-Jobs table 
+-Displays all jobs with information shown, with the most recently created job at the top 
+-"Priority" allows user to sort the jobs but the Urgent jobs first then Not Urgent ones
+-"View button" allows user to view the details of the job created
+-"Add" button allows user to add the job to the Favorite Jobs list
+-"Edit" button allows user to edit a job that he created
+-"Cancel" button allows user to delete a job that he created 
+
+-Favorite Jobs table 
+-"View button" allows user to view the details of the job
+-"Done" button deletes the job form the table and the data base
+-"Unfavorite" button redirects you to Dashboard and adds the job to the "Jobs" list
+
+Job details:
+
+When a job is in the "Jobs" list:
+-The job details are displayed as shown
+-"Add To My Jobs" links redirects you to Dashboard and adds the job to the "Favorite Jobs" list
+-"Edit" button allows user to edit a job that he created
+-"Cancel" button allows user to delete a job that he created 
+-"My Jobs" button redirects to a list of all jobs created by the connected Doctor profile
+
+When a job is in the "Favorite Jobs" list:
+-The job details are displayed as shown
+-"Unfavorite" links redirects you to Dashboard and adds the job to the "Jobs" list
+-"Edit" button allows user to edit a job that he created
+-"Cancel" button allows user to delete a job that he created 
+-"My Jobs" button redirects to a list of all jobs created by the connected Doctor profile
+
+
+Add A Job (New Job Creation):
+
+-All fields are required
+-Validation messages should display for unsuccessful submission
+-Due Date must be in the future
+
+
+
+--------------------------
+
+For a Nurse profile:
+
+Dashboard:
+
+-"Back" button redirects the user to the Dashboard 
+-"Logout" clears the user session
+
+-Search bar allows user to search by "Location"
+-"Clear Search" button resets the search to show all jobs
+
+-Jobs table 
+-Displays all jobs with information shown, with the most recently created job at the top 
+-"Priority" allows user to sort the jobs but the Urgent jobs first then Not Urgent ones
+-"View button" allows user to view the details of the job created
+-"Add" button allows user to add the job to the Favorite Jobs list 
+
+-Favorite Jobs table 
+-"View button" allows user to view the details of the job
+-"Done" button deletes the job form the table and the data base
+-"Unfavorite" button redirects you to Dashboard and adds the job to the "Jobs" list
+
+
+Job details:
+
+When a job is in the "Jobs" list:
+-The job details are displayed as shown
+-"Add To My Jobs" links redirects you to Dashboard and adds the job to the "Favorite Jobs" list
+
+When a job is in the "Favorite Jobs" list:
+-The job details are displayed as shown
+-"Unfavorite" button redirects you to Dashboard and adds the job to the "Jobs" list
+
+
+-------------------------------------------------------------------------------------------------------
+
+Logout/Security:
+-Logout should redirect to Login/Register page and clear user session 
+-Users should not be able to access any other pages unless logged in
+
+Relationships:
+-One-to-many relationship between Users and Jobs
+-Many-to-many relationship between Users and the Jobs they have added to "Favorite Jobs" list
+
+Backend:
+Use LINQ to persist and query data in a MySQL server
+
+Stretch Goals:
+-(Dashboard) Add a search filter that searches based on Location and displays correct results. 
+Include a "Clear Search" button that resets the search to show all jobs
+-(Dashboard) Add a sorting filter that sorts the jobs according to priority levels (Urgent jobs first)
+-(Add A Job) Add a Due Date that must be in future when creating the job
+-(View Job) add an "Edit" that allows user to edit a job he created
+-(View Job) add an "Cancel" that allows user to delete a job he created
+-(View Job) add an "My Jobs" that allows user to read/ show the list of jobs he created
+
+
+
+
+
+

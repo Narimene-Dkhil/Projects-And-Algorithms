@@ -1,0 +1,159 @@
+/* Global Styling */
+html {
+  font-size: 14px;
+  background-color: #0ABAB5;
+  color: white;
+  position: relative;
+  min-height: 100%;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+body {
+  margin-bottom: 60px;
+  background-color: #0ABAB5;
+  color: white;
+}
+
+/* Typography */
+.register-title {
+  margin-left: 200px;
+  color: white;
+}
+
+.text-right {
+  float: right;
+  color: white;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: white;
+}
+
+/* Table Styling */
+table {
+  background-color: #0ABAB5;
+  color: white;
+}
+
+th, td {
+  color: white;
+}
+
+/* Custom Table Styling for Dashboard */
+.table {
+  border-collapse: separate;
+  border-spacing: 0;
+  border-radius: 0.25rem;
+  overflow: hidden;
+}
+
+.table thead {
+  background-color: #dee2e6;
+  color: #343a40;
+  border-top-left-radius: 0.25rem;
+  border-top-right-radius: 0.25rem;
+}
+
+.table tbody {
+  border-bottom-left-radius: 0.25rem;
+  border-bottom-right-radius: 0.25rem;
+}
+
+.table td, .table th {
+  border-color: #e9ecef;
+  border-width: 1px;
+  border-style: solid;
+  color: #6c757d;
+}
+
+.table-hover tbody tr:hover {
+  background-color: #e9ecef;
+}
+
+/* Button Styling */
+.btn-custom-blue {
+  background-color: #002A5C;
+  color: white;
+  border: none;
+  border-radius: 0.25rem;
+}
+
+.btn-custom-red {
+  background-color: #D3D3D3;
+  color: black;
+  border: none;
+  border-radius: 0.25rem;
+}
+
+.btn-custom-blue:hover {
+  background-color: #041c42;
+  color: white;
+}
+
+.btn-custom-red:hover {
+  background-color: #740314;
+  color: white;
+}
+
+/* Ensure all buttons have the same border radius */
+.btn {
+  border-radius: 0.25rem !important;
+}
+
+.btn-custom-blue, .btn-custom-red {
+  border-radius: 0.25rem;
+}
+
+.btn-custom-blue:hover, .btn-custom-red:hover {
+  border-radius: 0.25rem;
+}
+
+/* Input Group Styling */
+.input-group .form-control {
+  border-color: #0ABAB5;
+  border-top-right-radius: 0.25rem;
+  border-bottom-right-radius: 0.25rem;
+}
+
+.input-group .btn {
+  border-top-left-radius: 0;
+  border-bottom-left-radius: 0;
+}
+
+
+/* Table Head Styling */
+.table thead th {
+  color: whitesmoke; /* Set the text color of table headers to white */
+}
+
+
+.custom-table {
+  background-color: white; /* Table background color */
+  color: black; /* Text color */
+}
+
+
+
+.custom-table td {
+  background-color: white; /* White background for table cells */
+  color: black; /* Dark text for table cells */
+}
+
+.custom-table tbody tr:hover {
+  background-color: #f1f1f1; /* Slightly lighter row on hover */
+}
+
+.btn-light {
+  background-color: #f8f9fa; /* Button color */
+  border: 1px solid #ced4da; /* Button border */
+  color: #495057; /* Button text color */
+}
+
+.btn {
+  height: 40px; /* Adjust height as needed */
+}

@@ -1,0 +1,93 @@
+@{
+    ViewData["Title"] = "View Job Page";
+}
+
+@model MyViewModel
+
+<h2 class="ms-3 mb-3 mt-3">@Model.Job.Title</h2>
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-12">
+            <div class="card border-dark mb-3">
+                <div class="card-body">
+                    <table class="table table-bordered custom-table">
+                        <thead class="table-dark text-light">
+                            <tr>
+                                <th>Details</th>
+                                <th>Information</th>
+                                <th>Actions</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td><strong>Description:</strong></td>
+                                <td>@Model.Job.Description</td>
+                                <td rowspan="7">
+                                    <div class="d-flex flex-column align-items-start">
+                                        @if (Model.IsFavorited)
+                                        {
+                                            <form asp-action="RemoveJobFromFavorites" asp-route-jobId="@Model.Job.JobId" method="post" class="mb-2 w-100">
+                                                <input type="submit" value="Unfavorite" class="btn btn-light w-100">
+                                            </form>
+                                        }
+                                        else
+                                        {
+                                            <form asp-action="AddJobToFavorites" asp-route-jobId="@Model.Job.JobId" method="post" class="mb-2 w-100">
+                                                <input type="submit" value="Add To My Jobs" class="btn btn-light w-100">
+                                            </form>
+                                        }
+
+                                        @if (Model.Job.UserId == Model.LoggedInUser.UserId)
+                                        {
+                                            <a href="/edit/@Model.Job.JobId" class="btn btn-light mb-2 w-100">Edit</a>
+
+                                            <form asp-action="DeleteJob" asp-controller="Home" asp-route-jobId="@Model.Job.JobId" method="post" class="mb-2 w-100">
+                                                <input type="submit" value="Cancel" class="btn btn-light w-100">
+                                            </form>
+                                            
+                                            <a href="/myJobs" class="btn btn-light w-100">My Jobs</a>
+                                        }
+                                    </div>
+                                </td>
+
+                            <tr>
+                                <td><strong>Location:</strong></td>
+                                <td>@Model.Job.Location</td>
+                            </tr>
+                            <tr>
+                                <td><strong>Posted by:</strong></td>
+                                <td>Dr. @Model.User.FirstName @Model.User.LastName</td>
+                            </tr>
+                            <tr>
+                                <td><strong>Posted on:</strong></td>
+                                <td>@Model.Job.CreatedAt.ToString("MMMM d, yyyy h:mm tt")</td>
+                            </tr>
+                            <tr>
+                                <td><strong>Due Date:</strong></td>
+                                <td>@Model.Job.DueDate.ToString("MMMM d, yyyy h:mm tt")</td>
+                            </tr>
+                            <tr>
+                                <td><strong>Priority:</strong></td>
+                                <td>@(Model.Job.IsUrgent ? "Urgent!" : "Not urgent.")</td>
+                            </tr>
+                            <tr>
+                                <td><strong>Favorited by:</strong></td>
+                                <td>
+                                    @if (Model.UserWhoFavorited != null)
+                                    {
+                                        <span>@Model.UserWhoFavorited.FirstName</span> @Model.UserWhoFavorited.LastName
+                                    }
+                                    else
+                                    {
+                                        <p>No one has favorited this job yet.</p>
+                                    }
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

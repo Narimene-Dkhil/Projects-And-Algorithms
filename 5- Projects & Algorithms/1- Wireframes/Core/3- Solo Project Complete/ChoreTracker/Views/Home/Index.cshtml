@@ -1,0 +1,14 @@
+﻿@{
+    ViewData["Title"] = "Login/Registration Page";
+}
+
+<div class="row text-center">
+    <div class="col-6 mt-4">
+        <h3 class="mb-4 register-title">Register</h3>
+        @await Html.PartialAsync("_Register")
+    </div>
+    <div class="col-6 mt-4">
+        <h3 class="mb-4">Login</h3>
+        @await Html.PartialAsync("_Login")
+    </div>
+</div>

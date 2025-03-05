@@ -1,0 +1,70 @@
+Student: Narimene Dkhil
+
+Application:
+Chore Tracker - A chore tracking app for Event Agency
+
+Description:
+Planning events has never been easy! The Chore Tracker web application stores and keeps track of all the chores that need to be done within an event. 
+Features include viewing, adding, editing or cancelling (deleting) tasks/chores from a list of jobs.
+
+Language used:
+C# .Net
+
+Framework: 
+ASP.NET Core
+
+Database:
+MySQL
+
+Styling: 
+CSS 
+Bootstrap
+
+GitHub repository:
+https://github.com/narimenedk/Coding-Dojo-Africa/tree/main/Projects%20%26%20Algorithms/Wireframes/Core/Solo%20Project%20Proposal
+
+Project features:
+
+MVP Features:
+Login and Registration with Validations
+-Validation messages should display for unsuccessful submission
+-(Registration and Login) All fields required
+-(Registration) Name must have a minimum length of 2 characters
+-(Registration) Valid email format
+-(Registration) No duplicate emails
+-(Registration) Password must have a minimum length of 8 characters
+-(Registration) Password and Password Confirm must match 
+-(Login) Valid email and password 
+
+Dashboard:
+-Display all jobs with information shown, with the most recent job at the top 
+-Ability to add a job(made by you or another user) to a "My Jobs" list(that is unique to the connected user)
+-Ability to view a job(made by you or another user)
+-Ability to edit a job you made 
+-Ability to cancel (delete) a job you made
+-Add a Job link redirect s to a new job form 
+
+Job details:
+-The job details are displayed as shown
+-Add To My Jobs links redirects you to Dashboard and adds the job to the "My Jobs" list
+
+New Job:
+-All fields are required
+-Validation messages should display for unsuccessful submission
+
+Logout/Security:
+-Logout should redirect to Login/Register page and clear user session 
+-Users should not be able to access any other pages unless logged in
+
+Relationships:
+-One-to-many relationship between Users and Jobs
+-Many-to-many relationship between Users and the Jobs they have added to "My Jobs" list
+
+Backend:
+Use LINQ to persist and query data in a MySQL server
+
+Stretch Goals:
+-(Dashboard) Add a search filter that searches based on Location and displays correct results. 
+Include a "Clear Search" button that resets the search to show all jobs
+-(Edit Job) add a Cancel (Delete) button that clears the job and redirects to dashboard
+

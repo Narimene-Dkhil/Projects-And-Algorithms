@@ -1,0 +1,68 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ChoreTracker
+build_property.RootNamespace = ChoreTracker
+build_property.ProjectDir = c:\Users\narim\OneDrive\Desktop\Coding Dojo Programs\Coding-Dojo-Bootcamp\5- Projects & Algorithms\1- Wireframes\Core\3- Solo Project Complete\ChoreTracker\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = c:\Users\narim\OneDrive\Desktop\Coding Dojo Programs\Coding-Dojo-Bootcamp\5- Projects & Algorithms\1- Wireframes\Core\3- Solo Project Complete\ChoreTracker
+build_property._RazorSourceGeneratorDebug = 
+
+[c:/Users/narim/OneDrive/Desktop/Coding Dojo Programs/Coding-Dojo-Bootcamp/5- Projects & Algorithms/1- Wireframes/Core/3- Solo Project Complete/ChoreTracker/Views/Home/AddJob.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBZGRKb2IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/narim/OneDrive/Desktop/Coding Dojo Programs/Coding-Dojo-Bootcamp/5- Projects & Algorithms/1- Wireframes/Core/3- Solo Project Complete/ChoreTracker/Views/Home/Dashboard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEYXNoYm9hcmQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/narim/OneDrive/Desktop/Coding Dojo Programs/Coding-Dojo-Bootcamp/5- Projects & Algorithms/1- Wireframes/Core/3- Solo Project Complete/ChoreTracker/Views/Home/EditJob.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxFZGl0Sm9iLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/narim/OneDrive/Desktop/Coding Dojo Programs/Coding-Dojo-Bootcamp/5- Projects & Algorithms/1- Wireframes/Core/3- Solo Project Complete/ChoreTracker/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/narim/OneDrive/Desktop/Coding Dojo Programs/Coding-Dojo-Bootcamp/5- Projects & Algorithms/1- Wireframes/Core/3- Solo Project Complete/ChoreTracker/Views/Home/MyJobs.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxNeUpvYnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/narim/OneDrive/Desktop/Coding Dojo Programs/Coding-Dojo-Bootcamp/5- Projects & Algorithms/1- Wireframes/Core/3- Solo Project Complete/ChoreTracker/Views/Home/ViewJob.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxWaWV3Sm9iLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/narim/OneDrive/Desktop/Coding Dojo Programs/Coding-Dojo-Bootcamp/5- Projects & Algorithms/1- Wireframes/Core/3- Solo Project Complete/ChoreTracker/Views/Home/_Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxfTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/narim/OneDrive/Desktop/Coding Dojo Programs/Coding-Dojo-Bootcamp/5- Projects & Algorithms/1- Wireframes/Core/3- Solo Project Complete/ChoreTracker/Views/Home/_Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxfUmVnaXN0ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/narim/OneDrive/Desktop/Coding Dojo Programs/Coding-Dojo-Bootcamp/5- Projects & Algorithms/1- Wireframes/Core/3- Solo Project Complete/ChoreTracker/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/narim/OneDrive/Desktop/Coding Dojo Programs/Coding-Dojo-Bootcamp/5- Projects & Algorithms/1- Wireframes/Core/3- Solo Project Complete/ChoreTracker/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/narim/OneDrive/Desktop/Coding Dojo Programs/Coding-Dojo-Bootcamp/5- Projects & Algorithms/1- Wireframes/Core/3- Solo Project Complete/ChoreTracker/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/narim/OneDrive/Desktop/Coding Dojo Programs/Coding-Dojo-Bootcamp/5- Projects & Algorithms/1- Wireframes/Core/3- Solo Project Complete/ChoreTracker/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/narim/OneDrive/Desktop/Coding Dojo Programs/Coding-Dojo-Bootcamp/5- Projects & Algorithms/1- Wireframes/Core/3- Solo Project Complete/ChoreTracker/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-jh3ugm3zgs

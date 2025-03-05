@@ -1,0 +1,210 @@
+C:\Users\narim\OneDrive\Desktop\Solo Project Proposal\Solo Project\ChoreTracker\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\narim\OneDrive\Desktop\Solo Project Proposal\Solo Project\ChoreTracker\bin\Debug\net6.0\appsettings.json
+C:\Users\narim\OneDrive\Desktop\Solo Project Proposal\Solo Project\ChoreTracker\bin\Debug\net6.0\ChoreTracker.staticwebassets.runtime.json
+C:\Users\narim\OneDrive\Desktop\Solo Project Proposal\Solo Project\ChoreTracker\bin\Debug\net6.0\ChoreTracker.exe
+C:\Users\narim\OneDrive\Desktop\Solo Project Proposal\Solo Project\ChoreTracker\bin\Debug\net6.0\ChoreTracker.deps.json
+C:\Users\narim\OneDrive\Desktop\Solo Project Proposal\Solo Project\ChoreTracker\bin\Debug\net6.0\ChoreTracker.runtimeconfig.json
+C:\Users\narim\OneDrive\Desktop\Solo Project Proposal\Solo Project\ChoreTracker\bin\Debug\net6.0\ChoreTracker.dll
+C:\Users\narim\OneDrive\Desktop\Solo Project Proposal\Solo Project\ChoreTracker\bin\Debug\net6.0\ChoreTracker.pdb
+C:\Users\narim\OneDrive\Desktop\Solo Project Proposal\Solo Project\ChoreTracker\bin\Debug\net6.0\Humanizer.dll
+C:\Users\narim\OneDrive\Desktop\Solo Project Proposal\Solo Project\ChoreTracker\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\narim\OneDrive\Desktop\Solo Project Proposal\Solo Project\ChoreTracker\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\narim\OneDrive\Desktop\Solo Project Proposal\Solo Project\ChoreTracker\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\narim\OneDrive\Desktop\Solo Project Proposal\Solo Project\ChoreTracker\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\narim\OneDrive\Desktop\Solo Project Proposal\Solo Project\ChoreTracker\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\narim\OneDrive\Desktop\Solo Project Proposal\Solo Project\ChoreTracker\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\narim\OneDrive\Desktop\Solo Project Proposal\Solo Project\ChoreTracker\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\narim\OneDrive\Desktop\Solo Project Proposal\Solo Project\ChoreTracker\obj\Debug\net6.0\ChoreTracker.csproj.AssemblyReference.cache
+C:\Users\narim\OneDrive\Desktop\Solo Project Proposal\Solo Project\ChoreTracker\obj\Debug\net6.0\ChoreTracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\narim\OneDrive\Desktop\Solo Project Proposal\Solo Project\ChoreTracker\obj\Debug\net6.0\ChoreTracker.AssemblyInfoInputs.cache
+C:\Users\narim\OneDrive\Desktop\Solo Project Proposal\Solo Project\ChoreTracker\obj\Debug\net6.0\ChoreTracker.AssemblyInfo.cs
+C:\Users\narim\OneDrive\Desktop\Solo Project Proposal\Solo Project\ChoreTracker\obj\Debug\net6.0\ChoreTracker.csproj.CoreCompileInputs.cache
+C:\Users\narim\OneDrive\Desktop\Solo Project Proposal\Solo Project\ChoreTracker\obj\Debug\net6.0\ChoreTracker.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\narim\OneDrive\Desktop\Solo Project Proposal\Solo Project\ChoreTracker\obj\Debug\net6.0\ChoreTracker.RazorAssemblyInfo.cache
+C:\Users\narim\OneDrive\Desktop\Solo Project Proposal\Solo Project\ChoreTracker\obj\Debug\net6.0\ChoreTracker.RazorAssemblyInfo.cs
+C:\Users\narim\OneDrive\Desktop\Solo Project Proposal\Solo Project\ChoreTracker\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\narim\OneDrive\Desktop\Solo Project Proposal\Solo Project\ChoreTracker\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\narim\OneDrive\Desktop\Solo Project Proposal\Solo Project\ChoreTracker\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\narim\OneDrive\Desktop\Solo Project Proposal\Solo Project\ChoreTracker\obj\Debug\net6.0\scopedcss\bundle\ChoreTracker.styles.css
+C:\Users\narim\OneDrive\Desktop\Solo Project Proposal\Solo Project\ChoreTracker\obj\Debug\net6.0\scopedcss\projectbundle\ChoreTracker.bundle.scp.css
+C:\Users\narim\OneDrive\Desktop\Solo Project Proposal\Solo Project\ChoreTracker\obj\Debug\net6.0\ChoreTracker.csproj.CopyComplete
+C:\Users\narim\OneDrive\Desktop\Solo Project Proposal\Solo Project\ChoreTracker\obj\Debug\net6.0\ChoreTracker.dll
+C:\Users\narim\OneDrive\Desktop\Solo Project Proposal\Solo Project\ChoreTracker\obj\Debug\net6.0\refint\ChoreTracker.dll
+C:\Users\narim\OneDrive\Desktop\Solo Project Proposal\Solo Project\ChoreTracker\obj\Debug\net6.0\ChoreTracker.pdb
+C:\Users\narim\OneDrive\Desktop\Solo Project Proposal\Solo Project\ChoreTracker\obj\Debug\net6.0\ChoreTracker.genruntimeconfig.cache
+C:\Users\narim\OneDrive\Desktop\Solo Project Proposal\Solo Project\ChoreTracker\obj\Debug\net6.0\ref\ChoreTracker.dll
+C:\Users\narim\OneDrive\Desktop\Solo Project 1\ChoreTracker\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\narim\OneDrive\Desktop\Solo Project 1\ChoreTracker\bin\Debug\net6.0\appsettings.json
+C:\Users\narim\OneDrive\Desktop\Solo Project 1\ChoreTracker\bin\Debug\net6.0\ChoreTracker.staticwebassets.runtime.json
+C:\Users\narim\OneDrive\Desktop\Solo Project 1\ChoreTracker\bin\Debug\net6.0\ChoreTracker.exe
+C:\Users\narim\OneDrive\Desktop\Solo Project 1\ChoreTracker\bin\Debug\net6.0\ChoreTracker.deps.json
+C:\Users\narim\OneDrive\Desktop\Solo Project 1\ChoreTracker\bin\Debug\net6.0\ChoreTracker.runtimeconfig.json
+C:\Users\narim\OneDrive\Desktop\Solo Project 1\ChoreTracker\bin\Debug\net6.0\ChoreTracker.dll
+C:\Users\narim\OneDrive\Desktop\Solo Project 1\ChoreTracker\bin\Debug\net6.0\ChoreTracker.pdb
+C:\Users\narim\OneDrive\Desktop\Solo Project 1\ChoreTracker\bin\Debug\net6.0\Humanizer.dll
+C:\Users\narim\OneDrive\Desktop\Solo Project 1\ChoreTracker\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\narim\OneDrive\Desktop\Solo Project 1\ChoreTracker\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\narim\OneDrive\Desktop\Solo Project 1\ChoreTracker\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\narim\OneDrive\Desktop\Solo Project 1\ChoreTracker\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\narim\OneDrive\Desktop\Solo Project 1\ChoreTracker\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\narim\OneDrive\Desktop\Solo Project 1\ChoreTracker\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\narim\OneDrive\Desktop\Solo Project 1\ChoreTracker\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\narim\OneDrive\Desktop\Solo Project 1\ChoreTracker\obj\Debug\net6.0\ChoreTracker.csproj.AssemblyReference.cache
+C:\Users\narim\OneDrive\Desktop\Solo Project 1\ChoreTracker\obj\Debug\net6.0\ChoreTracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\narim\OneDrive\Desktop\Solo Project 1\ChoreTracker\obj\Debug\net6.0\ChoreTracker.AssemblyInfoInputs.cache
+C:\Users\narim\OneDrive\Desktop\Solo Project 1\ChoreTracker\obj\Debug\net6.0\ChoreTracker.AssemblyInfo.cs
+C:\Users\narim\OneDrive\Desktop\Solo Project 1\ChoreTracker\obj\Debug\net6.0\ChoreTracker.csproj.CoreCompileInputs.cache
+C:\Users\narim\OneDrive\Desktop\Solo Project 1\ChoreTracker\obj\Debug\net6.0\ChoreTracker.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\narim\OneDrive\Desktop\Solo Project 1\ChoreTracker\obj\Debug\net6.0\ChoreTracker.RazorAssemblyInfo.cache
+C:\Users\narim\OneDrive\Desktop\Solo Project 1\ChoreTracker\obj\Debug\net6.0\ChoreTracker.RazorAssemblyInfo.cs
+C:\Users\narim\OneDrive\Desktop\Solo Project 1\ChoreTracker\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\narim\OneDrive\Desktop\Solo Project 1\ChoreTracker\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\narim\OneDrive\Desktop\Solo Project 1\ChoreTracker\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\narim\OneDrive\Desktop\Solo Project 1\ChoreTracker\obj\Debug\net6.0\scopedcss\bundle\ChoreTracker.styles.css
+C:\Users\narim\OneDrive\Desktop\Solo Project 1\ChoreTracker\obj\Debug\net6.0\scopedcss\projectbundle\ChoreTracker.bundle.scp.css
+C:\Users\narim\OneDrive\Desktop\Solo Project 1\ChoreTracker\obj\Debug\net6.0\ChoreTracker.csproj.CopyComplete
+C:\Users\narim\OneDrive\Desktop\Solo Project 1\ChoreTracker\obj\Debug\net6.0\ChoreTracker.dll
+C:\Users\narim\OneDrive\Desktop\Solo Project 1\ChoreTracker\obj\Debug\net6.0\refint\ChoreTracker.dll
+C:\Users\narim\OneDrive\Desktop\Solo Project 1\ChoreTracker\obj\Debug\net6.0\ChoreTracker.pdb
+C:\Users\narim\OneDrive\Desktop\Solo Project 1\ChoreTracker\obj\Debug\net6.0\ChoreTracker.genruntimeconfig.cache
+C:\Users\narim\OneDrive\Desktop\Solo Project 1\ChoreTracker\obj\Debug\net6.0\ref\ChoreTracker.dll
+C:\Users\narim\OneDrive\Desktop\Solo Project Proposal\Solo Project 1\ChoreTracker\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\narim\OneDrive\Desktop\Solo Project Proposal\Solo Project 1\ChoreTracker\bin\Debug\net6.0\appsettings.json
+C:\Users\narim\OneDrive\Desktop\Solo Project Proposal\Solo Project 1\ChoreTracker\bin\Debug\net6.0\ChoreTracker.staticwebassets.runtime.json
+C:\Users\narim\OneDrive\Desktop\Solo Project Proposal\Solo Project 1\ChoreTracker\bin\Debug\net6.0\ChoreTracker.exe
+C:\Users\narim\OneDrive\Desktop\Solo Project Proposal\Solo Project 1\ChoreTracker\bin\Debug\net6.0\ChoreTracker.deps.json
+C:\Users\narim\OneDrive\Desktop\Solo Project Proposal\Solo Project 1\ChoreTracker\bin\Debug\net6.0\ChoreTracker.runtimeconfig.json
+C:\Users\narim\OneDrive\Desktop\Solo Project Proposal\Solo Project 1\ChoreTracker\bin\Debug\net6.0\ChoreTracker.dll
+C:\Users\narim\OneDrive\Desktop\Solo Project Proposal\Solo Project 1\ChoreTracker\bin\Debug\net6.0\ChoreTracker.pdb
+C:\Users\narim\OneDrive\Desktop\Solo Project Proposal\Solo Project 1\ChoreTracker\bin\Debug\net6.0\Humanizer.dll
+C:\Users\narim\OneDrive\Desktop\Solo Project Proposal\Solo Project 1\ChoreTracker\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\narim\OneDrive\Desktop\Solo Project Proposal\Solo Project 1\ChoreTracker\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\narim\OneDrive\Desktop\Solo Project Proposal\Solo Project 1\ChoreTracker\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\narim\OneDrive\Desktop\Solo Project Proposal\Solo Project 1\ChoreTracker\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\narim\OneDrive\Desktop\Solo Project Proposal\Solo Project 1\ChoreTracker\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\narim\OneDrive\Desktop\Solo Project Proposal\Solo Project 1\ChoreTracker\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\narim\OneDrive\Desktop\Solo Project Proposal\Solo Project 1\ChoreTracker\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\narim\OneDrive\Desktop\Solo Project Proposal\Solo Project 1\ChoreTracker\obj\Debug\net6.0\ChoreTracker.csproj.AssemblyReference.cache
+C:\Users\narim\OneDrive\Desktop\Solo Project Proposal\Solo Project 1\ChoreTracker\obj\Debug\net6.0\ChoreTracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\narim\OneDrive\Desktop\Solo Project Proposal\Solo Project 1\ChoreTracker\obj\Debug\net6.0\ChoreTracker.AssemblyInfoInputs.cache
+C:\Users\narim\OneDrive\Desktop\Solo Project Proposal\Solo Project 1\ChoreTracker\obj\Debug\net6.0\ChoreTracker.AssemblyInfo.cs
+C:\Users\narim\OneDrive\Desktop\Solo Project Proposal\Solo Project 1\ChoreTracker\obj\Debug\net6.0\ChoreTracker.csproj.CoreCompileInputs.cache
+C:\Users\narim\OneDrive\Desktop\Solo Project Proposal\Solo Project 1\ChoreTracker\obj\Debug\net6.0\ChoreTracker.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\narim\OneDrive\Desktop\Solo Project Proposal\Solo Project 1\ChoreTracker\obj\Debug\net6.0\ChoreTracker.RazorAssemblyInfo.cache
+C:\Users\narim\OneDrive\Desktop\Solo Project Proposal\Solo Project 1\ChoreTracker\obj\Debug\net6.0\ChoreTracker.RazorAssemblyInfo.cs
+C:\Users\narim\OneDrive\Desktop\Solo Project Proposal\Solo Project 1\ChoreTracker\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\narim\OneDrive\Desktop\Solo Project Proposal\Solo Project 1\ChoreTracker\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\narim\OneDrive\Desktop\Solo Project Proposal\Solo Project 1\ChoreTracker\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\narim\OneDrive\Desktop\Solo Project Proposal\Solo Project 1\ChoreTracker\obj\Debug\net6.0\scopedcss\bundle\ChoreTracker.styles.css
+C:\Users\narim\OneDrive\Desktop\Solo Project Proposal\Solo Project 1\ChoreTracker\obj\Debug\net6.0\scopedcss\projectbundle\ChoreTracker.bundle.scp.css
+C:\Users\narim\OneDrive\Desktop\Solo Project Proposal\Solo Project 1\ChoreTracker\obj\Debug\net6.0\ChoreTracker.csproj.CopyComplete
+C:\Users\narim\OneDrive\Desktop\Solo Project Proposal\Solo Project 1\ChoreTracker\obj\Debug\net6.0\ChoreTracker.dll
+C:\Users\narim\OneDrive\Desktop\Solo Project Proposal\Solo Project 1\ChoreTracker\obj\Debug\net6.0\refint\ChoreTracker.dll
+C:\Users\narim\OneDrive\Desktop\Solo Project Proposal\Solo Project 1\ChoreTracker\obj\Debug\net6.0\ChoreTracker.pdb
+C:\Users\narim\OneDrive\Desktop\Solo Project Proposal\Solo Project 1\ChoreTracker\obj\Debug\net6.0\ChoreTracker.genruntimeconfig.cache
+C:\Users\narim\OneDrive\Desktop\Solo Project Proposal\Solo Project 1\ChoreTracker\obj\Debug\net6.0\ref\ChoreTracker.dll
+C:\Users\narim\OneDrive\Desktop\Solo Project Proposal\Solo Project 2\ChoreTracker\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\narim\OneDrive\Desktop\Solo Project Proposal\Solo Project 2\ChoreTracker\bin\Debug\net6.0\appsettings.json
+C:\Users\narim\OneDrive\Desktop\Solo Project Proposal\Solo Project 2\ChoreTracker\bin\Debug\net6.0\ChoreTracker.staticwebassets.runtime.json
+C:\Users\narim\OneDrive\Desktop\Solo Project Proposal\Solo Project 2\ChoreTracker\bin\Debug\net6.0\ChoreTracker.exe
+C:\Users\narim\OneDrive\Desktop\Solo Project Proposal\Solo Project 2\ChoreTracker\bin\Debug\net6.0\ChoreTracker.deps.json
+C:\Users\narim\OneDrive\Desktop\Solo Project Proposal\Solo Project 2\ChoreTracker\bin\Debug\net6.0\ChoreTracker.runtimeconfig.json
+C:\Users\narim\OneDrive\Desktop\Solo Project Proposal\Solo Project 2\ChoreTracker\bin\Debug\net6.0\ChoreTracker.dll
+C:\Users\narim\OneDrive\Desktop\Solo Project Proposal\Solo Project 2\ChoreTracker\bin\Debug\net6.0\ChoreTracker.pdb
+C:\Users\narim\OneDrive\Desktop\Solo Project Proposal\Solo Project 2\ChoreTracker\bin\Debug\net6.0\Humanizer.dll
+C:\Users\narim\OneDrive\Desktop\Solo Project Proposal\Solo Project 2\ChoreTracker\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\narim\OneDrive\Desktop\Solo Project Proposal\Solo Project 2\ChoreTracker\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\narim\OneDrive\Desktop\Solo Project Proposal\Solo Project 2\ChoreTracker\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\narim\OneDrive\Desktop\Solo Project Proposal\Solo Project 2\ChoreTracker\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\narim\OneDrive\Desktop\Solo Project Proposal\Solo Project 2\ChoreTracker\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\narim\OneDrive\Desktop\Solo Project Proposal\Solo Project 2\ChoreTracker\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\narim\OneDrive\Desktop\Solo Project Proposal\Solo Project 2\ChoreTracker\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\narim\OneDrive\Desktop\Solo Project Proposal\Solo Project 2\ChoreTracker\obj\Debug\net6.0\ChoreTracker.csproj.AssemblyReference.cache
+C:\Users\narim\OneDrive\Desktop\Solo Project Proposal\Solo Project 2\ChoreTracker\obj\Debug\net6.0\ChoreTracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\narim\OneDrive\Desktop\Solo Project Proposal\Solo Project 2\ChoreTracker\obj\Debug\net6.0\ChoreTracker.AssemblyInfoInputs.cache
+C:\Users\narim\OneDrive\Desktop\Solo Project Proposal\Solo Project 2\ChoreTracker\obj\Debug\net6.0\ChoreTracker.AssemblyInfo.cs
+C:\Users\narim\OneDrive\Desktop\Solo Project Proposal\Solo Project 2\ChoreTracker\obj\Debug\net6.0\ChoreTracker.csproj.CoreCompileInputs.cache
+C:\Users\narim\OneDrive\Desktop\Solo Project Proposal\Solo Project 2\ChoreTracker\obj\Debug\net6.0\ChoreTracker.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\narim\OneDrive\Desktop\Solo Project Proposal\Solo Project 2\ChoreTracker\obj\Debug\net6.0\ChoreTracker.RazorAssemblyInfo.cache
+C:\Users\narim\OneDrive\Desktop\Solo Project Proposal\Solo Project 2\ChoreTracker\obj\Debug\net6.0\ChoreTracker.RazorAssemblyInfo.cs
+C:\Users\narim\OneDrive\Desktop\Solo Project Proposal\Solo Project 2\ChoreTracker\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\narim\OneDrive\Desktop\Solo Project Proposal\Solo Project 2\ChoreTracker\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\narim\OneDrive\Desktop\Solo Project Proposal\Solo Project 2\ChoreTracker\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\narim\OneDrive\Desktop\Solo Project Proposal\Solo Project 2\ChoreTracker\obj\Debug\net6.0\scopedcss\bundle\ChoreTracker.styles.css
+C:\Users\narim\OneDrive\Desktop\Solo Project Proposal\Solo Project 2\ChoreTracker\obj\Debug\net6.0\scopedcss\projectbundle\ChoreTracker.bundle.scp.css
+C:\Users\narim\OneDrive\Desktop\Solo Project Proposal\Solo Project 2\ChoreTracker\obj\Debug\net6.0\ChoreTracker.csproj.CopyComplete
+C:\Users\narim\OneDrive\Desktop\Solo Project Proposal\Solo Project 2\ChoreTracker\obj\Debug\net6.0\ChoreTracker.dll
+C:\Users\narim\OneDrive\Desktop\Solo Project Proposal\Solo Project 2\ChoreTracker\obj\Debug\net6.0\refint\ChoreTracker.dll
+C:\Users\narim\OneDrive\Desktop\Solo Project Proposal\Solo Project 2\ChoreTracker\obj\Debug\net6.0\ChoreTracker.pdb
+C:\Users\narim\OneDrive\Desktop\Solo Project Proposal\Solo Project 2\ChoreTracker\obj\Debug\net6.0\ChoreTracker.genruntimeconfig.cache
+C:\Users\narim\OneDrive\Desktop\Solo Project Proposal\Solo Project 2\ChoreTracker\obj\Debug\net6.0\ref\ChoreTracker.dll
+C:\Users\narim\OneDrive\Desktop\Solo Project Proposal\Solo Project 3\ChoreTracker\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\narim\OneDrive\Desktop\Solo Project Proposal\Solo Project 3\ChoreTracker\bin\Debug\net6.0\appsettings.json
+C:\Users\narim\OneDrive\Desktop\Solo Project Proposal\Solo Project 3\ChoreTracker\bin\Debug\net6.0\ChoreTracker.staticwebassets.runtime.json
+C:\Users\narim\OneDrive\Desktop\Solo Project Proposal\Solo Project 3\ChoreTracker\bin\Debug\net6.0\ChoreTracker.exe
+C:\Users\narim\OneDrive\Desktop\Solo Project Proposal\Solo Project 3\ChoreTracker\bin\Debug\net6.0\ChoreTracker.deps.json
+C:\Users\narim\OneDrive\Desktop\Solo Project Proposal\Solo Project 3\ChoreTracker\bin\Debug\net6.0\ChoreTracker.runtimeconfig.json
+C:\Users\narim\OneDrive\Desktop\Solo Project Proposal\Solo Project 3\ChoreTracker\bin\Debug\net6.0\ChoreTracker.dll
+C:\Users\narim\OneDrive\Desktop\Solo Project Proposal\Solo Project 3\ChoreTracker\bin\Debug\net6.0\ChoreTracker.pdb
+C:\Users\narim\OneDrive\Desktop\Solo Project Proposal\Solo Project 3\ChoreTracker\bin\Debug\net6.0\Humanizer.dll
+C:\Users\narim\OneDrive\Desktop\Solo Project Proposal\Solo Project 3\ChoreTracker\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\narim\OneDrive\Desktop\Solo Project Proposal\Solo Project 3\ChoreTracker\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\narim\OneDrive\Desktop\Solo Project Proposal\Solo Project 3\ChoreTracker\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\narim\OneDrive\Desktop\Solo Project Proposal\Solo Project 3\ChoreTracker\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\narim\OneDrive\Desktop\Solo Project Proposal\Solo Project 3\ChoreTracker\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\narim\OneDrive\Desktop\Solo Project Proposal\Solo Project 3\ChoreTracker\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\narim\OneDrive\Desktop\Solo Project Proposal\Solo Project 3\ChoreTracker\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\narim\OneDrive\Desktop\Solo Project Proposal\Solo Project 3\ChoreTracker\obj\Debug\net6.0\ChoreTracker.csproj.AssemblyReference.cache
+C:\Users\narim\OneDrive\Desktop\Solo Project Proposal\Solo Project 3\ChoreTracker\obj\Debug\net6.0\ChoreTracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\narim\OneDrive\Desktop\Solo Project Proposal\Solo Project 3\ChoreTracker\obj\Debug\net6.0\ChoreTracker.AssemblyInfoInputs.cache
+C:\Users\narim\OneDrive\Desktop\Solo Project Proposal\Solo Project 3\ChoreTracker\obj\Debug\net6.0\ChoreTracker.AssemblyInfo.cs
+C:\Users\narim\OneDrive\Desktop\Solo Project Proposal\Solo Project 3\ChoreTracker\obj\Debug\net6.0\ChoreTracker.csproj.CoreCompileInputs.cache
+C:\Users\narim\OneDrive\Desktop\Solo Project Proposal\Solo Project 3\ChoreTracker\obj\Debug\net6.0\ChoreTracker.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\narim\OneDrive\Desktop\Solo Project Proposal\Solo Project 3\ChoreTracker\obj\Debug\net6.0\ChoreTracker.RazorAssemblyInfo.cache
+C:\Users\narim\OneDrive\Desktop\Solo Project Proposal\Solo Project 3\ChoreTracker\obj\Debug\net6.0\ChoreTracker.RazorAssemblyInfo.cs
+C:\Users\narim\OneDrive\Desktop\Solo Project Proposal\Solo Project 3\ChoreTracker\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\narim\OneDrive\Desktop\Solo Project Proposal\Solo Project 3\ChoreTracker\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\narim\OneDrive\Desktop\Solo Project Proposal\Solo Project 3\ChoreTracker\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\narim\OneDrive\Desktop\Solo Project Proposal\Solo Project 3\ChoreTracker\obj\Debug\net6.0\scopedcss\bundle\ChoreTracker.styles.css
+C:\Users\narim\OneDrive\Desktop\Solo Project Proposal\Solo Project 3\ChoreTracker\obj\Debug\net6.0\scopedcss\projectbundle\ChoreTracker.bundle.scp.css
+C:\Users\narim\OneDrive\Desktop\Solo Project Proposal\Solo Project 3\ChoreTracker\obj\Debug\net6.0\ChoreTracker.csproj.CopyComplete
+C:\Users\narim\OneDrive\Desktop\Solo Project Proposal\Solo Project 3\ChoreTracker\obj\Debug\net6.0\ChoreTracker.dll
+C:\Users\narim\OneDrive\Desktop\Solo Project Proposal\Solo Project 3\ChoreTracker\obj\Debug\net6.0\refint\ChoreTracker.dll
+C:\Users\narim\OneDrive\Desktop\Solo Project Proposal\Solo Project 3\ChoreTracker\obj\Debug\net6.0\ChoreTracker.pdb
+C:\Users\narim\OneDrive\Desktop\Solo Project Proposal\Solo Project 3\ChoreTracker\obj\Debug\net6.0\ChoreTracker.genruntimeconfig.cache
+C:\Users\narim\OneDrive\Desktop\Solo Project Proposal\Solo Project 3\ChoreTracker\obj\Debug\net6.0\ref\ChoreTracker.dll
+C:\Users\narim\OneDrive\Desktop\Coding Dojo Programs\Coding-Dojo-Africa\Projects & Algorithms\Wireframes\Core\Solo Project Complete\ChoreTracker\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\narim\OneDrive\Desktop\Coding Dojo Programs\Coding-Dojo-Africa\Projects & Algorithms\Wireframes\Core\Solo Project Complete\ChoreTracker\bin\Debug\net6.0\appsettings.json
+C:\Users\narim\OneDrive\Desktop\Coding Dojo Programs\Coding-Dojo-Africa\Projects & Algorithms\Wireframes\Core\Solo Project Complete\ChoreTracker\bin\Debug\net6.0\ChoreTracker.staticwebassets.runtime.json
+C:\Users\narim\OneDrive\Desktop\Coding Dojo Programs\Coding-Dojo-Africa\Projects & Algorithms\Wireframes\Core\Solo Project Complete\ChoreTracker\bin\Debug\net6.0\ChoreTracker.exe
+C:\Users\narim\OneDrive\Desktop\Coding Dojo Programs\Coding-Dojo-Africa\Projects & Algorithms\Wireframes\Core\Solo Project Complete\ChoreTracker\bin\Debug\net6.0\ChoreTracker.deps.json
+C:\Users\narim\OneDrive\Desktop\Coding Dojo Programs\Coding-Dojo-Africa\Projects & Algorithms\Wireframes\Core\Solo Project Complete\ChoreTracker\bin\Debug\net6.0\ChoreTracker.runtimeconfig.json
+C:\Users\narim\OneDrive\Desktop\Coding Dojo Programs\Coding-Dojo-Africa\Projects & Algorithms\Wireframes\Core\Solo Project Complete\ChoreTracker\bin\Debug\net6.0\ChoreTracker.dll
+C:\Users\narim\OneDrive\Desktop\Coding Dojo Programs\Coding-Dojo-Africa\Projects & Algorithms\Wireframes\Core\Solo Project Complete\ChoreTracker\bin\Debug\net6.0\ChoreTracker.pdb
+C:\Users\narim\OneDrive\Desktop\Coding Dojo Programs\Coding-Dojo-Africa\Projects & Algorithms\Wireframes\Core\Solo Project Complete\ChoreTracker\bin\Debug\net6.0\Humanizer.dll
+C:\Users\narim\OneDrive\Desktop\Coding Dojo Programs\Coding-Dojo-Africa\Projects & Algorithms\Wireframes\Core\Solo Project Complete\ChoreTracker\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\narim\OneDrive\Desktop\Coding Dojo Programs\Coding-Dojo-Africa\Projects & Algorithms\Wireframes\Core\Solo Project Complete\ChoreTracker\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\narim\OneDrive\Desktop\Coding Dojo Programs\Coding-Dojo-Africa\Projects & Algorithms\Wireframes\Core\Solo Project Complete\ChoreTracker\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\narim\OneDrive\Desktop\Coding Dojo Programs\Coding-Dojo-Africa\Projects & Algorithms\Wireframes\Core\Solo Project Complete\ChoreTracker\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\narim\OneDrive\Desktop\Coding Dojo Programs\Coding-Dojo-Africa\Projects & Algorithms\Wireframes\Core\Solo Project Complete\ChoreTracker\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\narim\OneDrive\Desktop\Coding Dojo Programs\Coding-Dojo-Africa\Projects & Algorithms\Wireframes\Core\Solo Project Complete\ChoreTracker\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\narim\OneDrive\Desktop\Coding Dojo Programs\Coding-Dojo-Africa\Projects & Algorithms\Wireframes\Core\Solo Project Complete\ChoreTracker\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\narim\OneDrive\Desktop\Coding Dojo Programs\Coding-Dojo-Africa\Projects & Algorithms\Wireframes\Core\Solo Project Complete\ChoreTracker\obj\Debug\net6.0\ChoreTracker.csproj.AssemblyReference.cache
+C:\Users\narim\OneDrive\Desktop\Coding Dojo Programs\Coding-Dojo-Africa\Projects & Algorithms\Wireframes\Core\Solo Project Complete\ChoreTracker\obj\Debug\net6.0\ChoreTracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\narim\OneDrive\Desktop\Coding Dojo Programs\Coding-Dojo-Africa\Projects & Algorithms\Wireframes\Core\Solo Project Complete\ChoreTracker\obj\Debug\net6.0\ChoreTracker.AssemblyInfoInputs.cache
+C:\Users\narim\OneDrive\Desktop\Coding Dojo Programs\Coding-Dojo-Africa\Projects & Algorithms\Wireframes\Core\Solo Project Complete\ChoreTracker\obj\Debug\net6.0\ChoreTracker.AssemblyInfo.cs
+C:\Users\narim\OneDrive\Desktop\Coding Dojo Programs\Coding-Dojo-Africa\Projects & Algorithms\Wireframes\Core\Solo Project Complete\ChoreTracker\obj\Debug\net6.0\ChoreTracker.csproj.CoreCompileInputs.cache
+C:\Users\narim\OneDrive\Desktop\Coding Dojo Programs\Coding-Dojo-Africa\Projects & Algorithms\Wireframes\Core\Solo Project Complete\ChoreTracker\obj\Debug\net6.0\ChoreTracker.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\narim\OneDrive\Desktop\Coding Dojo Programs\Coding-Dojo-Africa\Projects & Algorithms\Wireframes\Core\Solo Project Complete\ChoreTracker\obj\Debug\net6.0\ChoreTracker.RazorAssemblyInfo.cache
+C:\Users\narim\OneDrive\Desktop\Coding Dojo Programs\Coding-Dojo-Africa\Projects & Algorithms\Wireframes\Core\Solo Project Complete\ChoreTracker\obj\Debug\net6.0\ChoreTracker.RazorAssemblyInfo.cs
+C:\Users\narim\OneDrive\Desktop\Coding Dojo Programs\Coding-Dojo-Africa\Projects & Algorithms\Wireframes\Core\Solo Project Complete\ChoreTracker\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\narim\OneDrive\Desktop\Coding Dojo Programs\Coding-Dojo-Africa\Projects & Algorithms\Wireframes\Core\Solo Project Complete\ChoreTracker\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\narim\OneDrive\Desktop\Coding Dojo Programs\Coding-Dojo-Africa\Projects & Algorithms\Wireframes\Core\Solo Project Complete\ChoreTracker\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\narim\OneDrive\Desktop\Coding Dojo Programs\Coding-Dojo-Africa\Projects & Algorithms\Wireframes\Core\Solo Project Complete\ChoreTracker\obj\Debug\net6.0\scopedcss\bundle\ChoreTracker.styles.css
+C:\Users\narim\OneDrive\Desktop\Coding Dojo Programs\Coding-Dojo-Africa\Projects & Algorithms\Wireframes\Core\Solo Project Complete\ChoreTracker\obj\Debug\net6.0\scopedcss\projectbundle\ChoreTracker.bundle.scp.css
+C:\Users\narim\OneDrive\Desktop\Coding Dojo Programs\Coding-Dojo-Africa\Projects & Algorithms\Wireframes\Core\Solo Project Complete\ChoreTracker\obj\Debug\net6.0\ChoreTracker.csproj.CopyComplete
+C:\Users\narim\OneDrive\Desktop\Coding Dojo Programs\Coding-Dojo-Africa\Projects & Algorithms\Wireframes\Core\Solo Project Complete\ChoreTracker\obj\Debug\net6.0\ChoreTracker.dll
+C:\Users\narim\OneDrive\Desktop\Coding Dojo Programs\Coding-Dojo-Africa\Projects & Algorithms\Wireframes\Core\Solo Project Complete\ChoreTracker\obj\Debug\net6.0\refint\ChoreTracker.dll
+C:\Users\narim\OneDrive\Desktop\Coding Dojo Programs\Coding-Dojo-Africa\Projects & Algorithms\Wireframes\Core\Solo Project Complete\ChoreTracker\obj\Debug\net6.0\ChoreTracker.pdb
+C:\Users\narim\OneDrive\Desktop\Coding Dojo Programs\Coding-Dojo-Africa\Projects & Algorithms\Wireframes\Core\Solo Project Complete\ChoreTracker\obj\Debug\net6.0\ChoreTracker.genruntimeconfig.cache
+C:\Users\narim\OneDrive\Desktop\Coding Dojo Programs\Coding-Dojo-Africa\Projects & Algorithms\Wireframes\Core\Solo Project Complete\ChoreTracker\obj\Debug\net6.0\ref\ChoreTracker.dll

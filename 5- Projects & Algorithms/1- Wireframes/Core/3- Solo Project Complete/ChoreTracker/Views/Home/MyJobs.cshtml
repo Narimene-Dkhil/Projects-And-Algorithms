@@ -1,0 +1,49 @@
+@{
+    ViewData["Title"] = "My Created Jobs Page";
+}
+
+@model MyViewModel
+
+<div class="d-flex justify-content-between align-items-center mb-4">
+    <h3>Welcome Dr. @Model.User.FirstName!<h3>
+</div>
+
+<div class="row">
+    <div class="col-md-12">
+        <h6 class="mb-3">Jobs you created:</h6>
+        <table class="table table-light table-hover">
+            <thead class="table-dark">
+                <tr>
+                    <th>Job</th>
+                    <th>Location</th>
+                    <th>Priority</th>
+                    <th>Due Date</th>
+                    <th>Action</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (Job job in Model.AllJobs)
+                {
+                    <tr>
+                        <td><strong>@job.Title</strong></td>
+                        <td>@job.Location</td>
+                        <td>@(job.IsUrgent? "Urgent!" : "Not urgent.")</td>
+                        <td>@job.DueDate.ToString("MMMM d, yyyy h:mm tt")</td>
+                        <td>
+                            <div class="d-flex align-items-center">
+                                <a href="/view/@job.JobId" class="btn btn-secondary me-2">View</a>
+                                <form asp-action="AddJobToFavorites" asp-route-jobId="@job.JobId" method="post" class="m-0">
+                                    <input type="submit" value="Add" class="btn btn-secondary me-2">
+                                </form>
+                                <a href="/edit/@job.JobId" class="btn btn-secondary me-2">Edit</a>
+                                <form asp-action="DeleteJob" asp-controller="Home" asp-route-jobId="@job.JobId" method="post" class="m-0">
+                                    <input type="submit" value="Cancel" class="btn btn-secondary me-2">
+                                </form>
+                            </div>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
